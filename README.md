@@ -26,7 +26,3 @@
 ![alt text](Screenshots/page9.png "Figure 9")
 
 ##
-
-##
-
-##
